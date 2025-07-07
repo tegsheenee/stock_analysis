@@ -40,5 +40,5 @@ This interactive Tableau dashboard delivers data-driven insights into historical
         🔗 Data Source: Web API (last 6 months of data)  
         🐍 Data Pipeline: Python (Requests)  
         🗃️ Database: MySQL (Optimized queries)  
-        📊 Visualization: Tableau (Dynamic dashboards)  
+        📊 Visualization: Tableau (Dynamic dashboards using Calculated Fields and Calculated Tables)  
 
